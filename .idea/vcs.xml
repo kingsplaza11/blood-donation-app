@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Blood_Bank_Management_System_in_Django" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/blood-donation-app" vcs="Git" />
+  </component>
+</project>
